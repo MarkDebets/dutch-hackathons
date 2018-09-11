@@ -8,6 +8,7 @@ The table below contains hackathons that have announced their next editions, com
 
 | Hackathon | Location | Past Editions | Upcoming Edition |
 |---|---|---|---|
+| [Sporthack](https://www.sporthack.nl) | Arnhem | | October 4 - October 5, 2018 |
 | [RevenYOU Leauge](https://www.revenyou.io/revenyou-league/) | Rotterdam (online) | | July 6 - October 5, 2018 |
 | [Open Source Hackathon](https://carriere.infosupport.com/augurk/) | Utrecht | | July 28, 2018 |
 
